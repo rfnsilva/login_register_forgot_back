@@ -2,7 +2,7 @@
 
 repositório com codigo criado para a funcionalidade de cadastrar usuarios, realizar login e recuperar a senha do usuario
 
-## Para testa 
+## Para testar
 
 rode yarn install para instalar os mudulos,
 configure o arquivo ormconfig com seu dados do banco de dados,
