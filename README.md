@@ -10,7 +10,7 @@ configure um valor para ser usando com secret no jwt,
 crie uma conta no mailtrap para testa o recebimento de email,
 configure a parte do codigo(process.env,MAILTRAP_USER...) onde se envia o email com seu dados do mailtrap
 
-se vc for rodar em desenvolvimento mudar o arquivo ormconfig
+se vc for rodar em desenvolvimento mudar o arquivo ormconfig,
   onde tem dist coloque src e acrescente synchronize: true;
 
 ## Build
