@@ -1,20 +1,18 @@
-# Backend tela de login, cadastro e recuperar/trocar senha
+<h2 align="center"> Tecnologias usadas <span>BACK-END</span> </h2>
+<p align="center"> Nodejs, Typescript, Typeorm, JWT, Bcrypt, Postgres </p><br />
 
-repositório com codigo criado para a funcionalidade de cadastrar usuarios, realizar login e recuperar a senha do usuario
+<h2 align="center"> Como testar </h2>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Node&message=SERVE&color=gren&style=for-the-badge&logo=NODE"/>
+</p>
+<p align="center"> basta executar no terminal ng server e acessar o localost:4200 </p><br />
 
-## Para testar
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Node&message=BUILD&color=gren&style=for-the-badge&logo=NODE"/>
+</p>
+<p align="center"> basta executar no terminal ng build </p><br />
 
-rode yarn install para instalar os mudulos,
-configure o arquivo ormconfig com seu dados do banco de dados,
-configure um valor para ser usando com secret no jwt,
-crie uma conta no mailtrap para testa o recebimento de email,
-configure a parte do codigo(process.env,MAILTRAP_USER...) onde se envia o email com seu dados do mailtrap
-
-se vc for rodar em desenvolvimento mudar o arquivo ormconfig,
-  onde tem dist coloque src e acrescente synchronize: true;
-
-## Build
-
-usei o babel para gerar a build de produção,
-para gerar o build rode yarn build que sera executado um script do babel presente no arquivo package.json
-
+<h2 align="center"><span>IMAGENS</span> </h2>
+<p align="center"> 
+<img width="600" height="400" src="https://i.ibb.co/Vxn5yG3/asdas.png"/>
+</p><br />
